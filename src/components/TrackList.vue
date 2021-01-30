@@ -228,6 +228,6 @@ export default Vue.extend({
   margin: 0;
   list-style: none;
   border-bottom: solid 2px #f2f2f2;
-  height: 85px;
+  height: 108px;
 }
 </style>
