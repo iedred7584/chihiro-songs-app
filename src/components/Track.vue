@@ -28,6 +28,14 @@
               </a>
               <span>{{ track.hasVideoInfo() ? track.video.channel.name : "" }}</span>
             </div>
+            <div v-if="track.isMembership" class="track-info-item">
+              <v-icon size="15">mdi-lock</v-icon>
+              <span>メンバーシップ限定</span>
+            </div>
+            <div v-else class="track-info-item">
+              <v-icon size="15">mdi-lock-open</v-icon>
+              <span>一般公開</span>
+            </div>
           </v-card-text>
         </div>
 

@@ -11,6 +11,7 @@ export interface TrackJson {
   tags: string[];
   start: number;
   end: number;
+  isMembership: boolean;
 }
 
 export class Track {
@@ -24,6 +25,7 @@ export class Track {
   readonly tags: string[]
   readonly start: number
   readonly end: number
+  readonly isMembership: boolean
   public isFavorite: boolean
 
   constructor(trackJson: TrackJson, isFavorite = false, video: Video | null = null, uuid: string | null = null) {
@@ -36,6 +38,7 @@ export class Track {
     this.tags = trackJson.tags
     this.start = trackJson.start
     this.end = trackJson.end
+    this.isMembership = trackJson.isMembership
     this.isFavorite = isFavorite
     this.video = video || new Video(trackJson.videoid, trackJson.publishedAt)
   }
@@ -51,7 +54,8 @@ export class Track {
         publishedAt: this.publishedAt,
         tags: this.tags.map(tag => tag),
         start: this.start,
-        end: this.end
+        end: this.end,
+        isMembership: this.isMembership
       },
       this.isFavorite,
       this.video,
