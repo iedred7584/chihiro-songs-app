@@ -95,9 +95,12 @@ export default Vue.extend({
           title: video.getTitle() || "",
           subtitle: (video.getChannel() || {}).name || "",
           thumbnailUrl: video.getThumbnailURL("hqdefault"),
-          metadata: [...keywords].join("  ")
+          metadata: [...keywords].join("  "),
+          isMembership: library.tracks.find(x => x.video.id == video.id)?.isMembership
         }
       })
+
+    console.log(this.videoCards)
   },
   computed: {
     ...mapState(["searchQuery"])
