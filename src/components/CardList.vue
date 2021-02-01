@@ -42,7 +42,7 @@ export default Vue.extend({
 .card-list {
   display: grid;
   gap: 8px;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  grid-template-columns: repeat(auto-fit, calc(25% - 6px));
   width: 100%;
   max-height: 100%;
   padding: 5px;
