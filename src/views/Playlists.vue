@@ -276,17 +276,7 @@ export default Vue.extend({
       background-position: center;
       text-align: center;
       overflow: hidden;
-
-      &:before {
-        content: "";
-        background: inherit;
-        filter: blur(15px);
-        position: absolute;
-        top: -30px;
-        left: -30px;
-        right: -30px;
-        bottom: -30px;
-      }
+      filter: blur(10px);
 
       &:after {
         content: "";
