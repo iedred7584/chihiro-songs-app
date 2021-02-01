@@ -53,12 +53,10 @@ export default Vue.extend({
     draggable,
     Track: () => import("@/components/Track.vue")
   },
-  data() {
-    return {
-      loadedTracks: [] as Track[],
-      updatedQuery: ""
-    }
-  },
+  data: () => ({
+    loadedTracks: [] as Track[],
+    updatedQuery: ""
+  }),
   computed: {
     ...mapState(["playingTrack"]),
     filteredTracks(): Track[] {
@@ -213,21 +211,21 @@ export default Vue.extend({
   }
 }
 
-.track-list-container {
-  height: 100%;
-  overflow-x: hidden;
-  overflow-y: scroll;
-}
-
-.track-list {
-  margin: 0;
-  padding: 0;
-}
-
 .track {
   margin: 0;
   list-style: none;
   border-bottom: solid 2px #f2f2f2;
   height: 108px;
+
+  &-list {
+    margin: 0;
+    padding: 0;
+
+    &-container {
+      height: 100%;
+      overflow-x: hidden;
+      overflow-y: scroll;
+    }
+  }
 }
 </style>

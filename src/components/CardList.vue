@@ -35,23 +35,24 @@ export default Vue.extend({
 </script>
 
 <style scoped lang="scss">
-.card-list-container {
-  width: 100%;
-  height: 100%;
-}
-.card-list {
-  display: grid;
-  gap: 8px;
-  grid-template-columns: repeat(auto-fit, calc(25% - 6px));
-  width: 100%;
-  max-height: 100%;
-  padding: 5px;
-  overflow-x: hidden;
-  overflow-y: scroll;
-}
-
 .card {
   width: 100%;
   height: 100%;
+
+  &-list {
+    display: grid;
+    gap: 8px;
+    grid-template-columns: repeat(auto-fit, calc(25% - 6px));
+    width: 100%;
+    max-height: 100%;
+    padding: 5px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+
+    &-container {
+      width: 100%;
+      height: 100%;
+    }
+  }
 }
 </style>

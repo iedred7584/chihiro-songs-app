@@ -102,12 +102,10 @@ export default Vue.extend({
     Config: () => import("@/components/Config.vue"),
     MessageTray: () => import("@/components/MessageTray.vue")
   },
-  data() {
-    return {
-      library: library,
-      player: false
-    }
-  },
+  data: () => ({
+    library: library,
+    player: false
+  }),
   computed: {
     ...mapState(["playingTrack", "searchQuery"]),
     query: {
@@ -212,9 +210,6 @@ export default Vue.extend({
     width: 100%;
     height: 70px;
 
-    .icon-search {
-    }
-
     .v-input {
       position: absolute;
       left: 40px;
@@ -311,9 +306,6 @@ export default Vue.extend({
 }
 
 @media screen and (max-width: 780px) {
-  .main-container {
-  }
-
   .header {
     display: none;
   }

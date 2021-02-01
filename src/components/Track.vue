@@ -86,12 +86,10 @@ export default Vue.extend({
   async created() {
     await this.track.fetchVideoInfo()
   },
-  data() {
-    return {
-      nowPlaying: false,
-      playlistDialog: false
-    }
-  },
+  data: () => ({
+    nowPlaying: false,
+    playlistDialog: false
+  }),
   computed: {
     ...mapState(["playingTrack", "favoriteTracks"])
   },
@@ -168,21 +166,18 @@ export default Vue.extend({
   height: 100%;
 }
 
-.nowplayingtrack {
-}
-
 .track-card {
   position: relative;
   user-select: none;
   align-items: center;
   height: 100%;
 
-  &:before {
+  &::before {
     transition: opacity 0.3s;
     opacity: 0;
   }
 
-  &:hover:before {
+  &:hover::before {
     content: "";
     position: absolute;
     top: 0;
@@ -250,7 +245,7 @@ export default Vue.extend({
   white-space: nowrap;
   text-overflow: ellipsis;
 
-  .track-info-item {
+  &-item {
     padding: 2px 0px 2px 3px;
     overflow: hidden;
     white-space: nowrap;

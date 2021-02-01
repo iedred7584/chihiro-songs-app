@@ -132,11 +132,11 @@ export default Vue.extend({
     width: 30%;
   }
 
-  .queue-actions-center {
+  &-center {
     text-align: center;
   }
 
-  .queue-actions-right {
+  &-right {
     text-align: right;
   }
 

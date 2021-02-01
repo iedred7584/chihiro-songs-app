@@ -14,11 +14,9 @@ export default Vue.extend({
   components: {
     TrackList: () => import("@/components/TrackList.vue")
   },
-  data() {
-    return {
-      tracks: library.loadFavoriteTracks()
-    }
-  },
+  data: () => ({
+    tracks: library.loadFavoriteTracks()
+  }),
   computed: {
     ...mapState(["searchQuery", "favoriteTracks"])
   }

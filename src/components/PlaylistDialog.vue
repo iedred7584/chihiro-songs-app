@@ -85,14 +85,12 @@ const emptyPlaylistNameErrorMessage = new Message("error", "プレイリスト�
 export default Vue.extend({
   name: "PlaylistDialog",
   props: ["track"],
-  data() {
-    return {
-      newPlaylistDialog: false,
-      newPlaylistName: "",
-      newPlaylistErrorMessage: null as Message | null,
-      errorMessage: null as Message | null
-    }
-  },
+  data: () => ({
+    newPlaylistDialog: false,
+    newPlaylistName: "",
+    newPlaylistErrorMessage: null as Message | null,
+    errorMessage: null as Message | null
+  }),
   computed: {
     ...mapState(["playlists"])
   },
@@ -134,5 +132,3 @@ export default Vue.extend({
   }
 })
 </script>
-
-<style scoped lang="scss"></style>

@@ -62,15 +62,13 @@ export default Vue.extend({
     CardList: () => import("@/components/CardList.vue"),
     TrackList: () => import("@/components/TrackList.vue")
   },
-  data() {
-    return {
-      library: library,
-      videos: [] as Video[],
-      videoCards: [] as Card[],
-      videoToTracks: new Map<string, Track[]>(),
-      selectedVideo: null as Video | null
-    }
-  },
+  data: () => ({
+    library: library,
+    videos: [] as Video[],
+    videoCards: [] as Card[],
+    videoToTracks: new Map<string, Track[]>(),
+    selectedVideo: null as Video | null
+  }),
   async created() {
     const videoIdToVideo = new Map(library.tracks.map(track => [track.video.id, track.video]))
     const videos = [...videoIdToVideo.values()]
@@ -99,8 +97,6 @@ export default Vue.extend({
           isMembership: library.tracks.find(x => x.video.id == video.id)?.isMembership
         }
       })
-
-    console.log(this.videoCards)
   },
   computed: {
     ...mapState(["searchQuery"])
@@ -190,7 +186,6 @@ export default Vue.extend({
   position: absolute;
   width: 100%;
   height: 100%;
-
   top: 0;
   left: 0;
   overflow: hidden;
@@ -246,14 +241,14 @@ export default Vue.extend({
         color: #ffffff;
         padding-right: 25px;
 
-        .video-info-title {
+        &-title {
           font-size: 20px;
           display: -webkit-box;
           -webkit-box-orient: vertical;
           -webkit-line-clamp: 2;
           overflow: hidden;
         }
-        .video-info-channel {
+        &-channel {
           display: -webkit-box;
           -webkit-box-orient: vertical;
           -webkit-line-clamp: 1;

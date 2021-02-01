@@ -102,15 +102,13 @@ export default Vue.extend({
     CardList: () => import("@/components/CardList.vue"),
     TrackList: () => import("@/components/TrackList.vue")
   },
-  data() {
-    return {
-      selectedPlaylist: null as Playlist | null,
-      renameDialog: false,
-      deleteDialog: false,
-      renamedPlaylistName: "",
-      renamePlaylistErrorMessage: null as Message | null
-    }
-  },
+  data: () => ({
+    selectedPlaylist: null as Playlist | null,
+    renameDialog: false,
+    deleteDialog: false,
+    renamedPlaylistName: "",
+    renamePlaylistErrorMessage: null as Message | null
+  }),
   computed: {
     ...mapState(["playlists", "searchQuery"]),
     playlistCards: function(): Card[] {
@@ -308,14 +306,14 @@ export default Vue.extend({
         color: #ffffff;
         padding-right: 25px;
 
-        .playlist-info-title {
+        &-title {
           display: -webkit-box;
           -webkit-box-orient: vertical;
           -webkit-line-clamp: 1;
           overflow: hidden;
         }
 
-        .playlist-info-subtitle {
+        &-subtitle {
           display: -webkit-box;
           -webkit-box-orient: vertical;
           -webkit-line-clamp: 1;
