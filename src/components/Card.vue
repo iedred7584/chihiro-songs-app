@@ -3,6 +3,9 @@
     <v-card rounded @click="onClick">
       <div class="card-thumbnail">
         <v-img :src="card.thumbnailUrl" height="120"></v-img>
+        <div v-if="card.isMembership" class="card-thumbnail-membership">
+          <v-icon size="18">mdi-lock</v-icon>
+        </div>
       </div>
 
       <div class="d-flex flex-no-wrap justify-space-between">
@@ -63,6 +66,33 @@ export default Vue.extend({
     bottom: 0;
     background-color: #000000;
     opacity: 0.1;
+  }
+
+  .card-thumbnail {
+    position: relative;
+
+    &-membership {
+      display: flex;
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 23px;
+      height: 23px;
+      justify-content: center;
+      align-items: center;
+
+      &::before {
+        content: "";
+        position: absolute;
+        width: 0;
+        height: 0;
+        top: 0;
+        right: 0;
+        border-top: 40px solid #a3ffae;
+        border-top: 40px solid #ffffff;
+        border-left: 40px solid transparent;
+      }
+    }
   }
 
   .card-info {

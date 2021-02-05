@@ -60,11 +60,9 @@ import Message from "@/models/message"
 
 export default Vue.extend({
   name: "DataManager",
-  data() {
-    return {
-      deleteDialog: false
-    }
-  },
+  data: () => ({
+    deleteDialog: false
+  }),
   methods: {
     ...mapMutations({
       cleanAll: VuexMutation.CLEAN_ALL,
@@ -83,6 +81,7 @@ export default Vue.extend({
 h3 {
   padding-bottom: 10px;
 }
+
 section {
   &:not(:first-child) {
     margin-top: 40px;

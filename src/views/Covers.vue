@@ -16,11 +16,9 @@ export default Vue.extend({
   components: {
     TrackList: () => import("@/components/TrackList.vue")
   },
-  data() {
-    return {
-      tracks: new Search(util.sortTracksByDate(library.tracks, true)).getTracksByTag("歌ってみた")
-    }
-  },
+  data: () => ({
+    tracks: new Search(util.sortTracksByDate(library.tracks, true)).getTracksByTag("歌ってみた")
+  }),
   computed: {
     ...mapState(["searchQuery"])
   }

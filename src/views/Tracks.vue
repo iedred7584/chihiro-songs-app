@@ -16,11 +16,9 @@ export default Vue.extend({
   components: {
     TrackList: () => import("@/components/TrackList.vue")
   },
-  data() {
-    return {
-      tracks: util.sortTracksByDate(library.tracks as Track[], true)
-    }
-  },
+  data: () => ({
+    tracks: util.sortTracksByDate(library.tracks as Track[], true)
+  }),
   computed: {
     ...mapState(["searchQuery"])
   }
@@ -31,6 +29,7 @@ export default Vue.extend({
 .container {
   height: 100%;
 }
+
 .track-list {
   overflow: hidden;
 }

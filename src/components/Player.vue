@@ -159,12 +159,10 @@ export default Vue.extend({
       setPlayerVolume: VuexMutation.SET_PLAYER_VOLUME,
       setPlayerMute: VuexMutation.SET_PLAYER_MUTE
     }),
-
     ...mapActions({
       setNextTrack: VuexAction.SET_NEXT_TRACK,
       setPrevTrack: VuexAction.SET_PREV_TRACK
     }),
-
     async playing() {
       if (!this.playingTrack) return
       this.videoPlayed = true
@@ -184,27 +182,22 @@ export default Vue.extend({
         })
       }, 100)
     },
-
     paused() {
       if (this.processId !== null) {
         clearInterval(this.processId)
       }
     },
-
     ended() {
       if (!this.videoPlayed) return
       this.videoPlayed = false
       this.setNextTrack()
     },
-
     playNext() {
       this.setNextTrack()
     },
-
     playPrev() {
       this.setPrevTrack()
     },
-
     async loadTrack(track: Track) {
       await this.player.loadVideoById({
         videoId: track.video.id,
@@ -212,7 +205,6 @@ export default Vue.extend({
         endSeconds: track.end
       })
     },
-
     async playVideo() {
       if (!this.playingTrack) {
         this.playNext()
@@ -223,24 +215,19 @@ export default Vue.extend({
       }
       await this.player.playVideo()
     },
-
     async pauseVideo() {
       await this.player.pauseVideo()
     },
-
     seekStart() {
       this.nowSeeking = true
     },
-
     async seekEnd() {
       this.nowSeeking = false
       await this.player.seekTo(this.videoTimeOnSeekbar, true)
     },
-
     secondsToTime(t: number): string {
       return secondsToTime(t)
     },
-
     toggleFavorite() {
       if (!this.playingTrack) return
       if (this.playingTrack.isFavorite) {
@@ -251,12 +238,10 @@ export default Vue.extend({
         this.playingTrack.isFavorite = true
       }
     },
-
     async toggleMute() {
       this.setPlayerMute(!this.playerMute)
     }
   },
-
   watch: {
     async playingTrack() {
       if (!this.playingTrack) {
@@ -276,11 +261,9 @@ export default Vue.extend({
       }
       await this.player.playVideo()
     },
-
     async playerVolume() {
       await this.player.setVolume(this.playerVolume)
     },
-
     async playerMute() {
       if (this.playerMute) {
         await this.player.mute()

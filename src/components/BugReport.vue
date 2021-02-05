@@ -20,6 +20,7 @@ export default Vue.extend({
 h3 {
   padding-bottom: 10px;
 }
+
 section {
   &:not(:first-child) {
     margin-top: 40px;
