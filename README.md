@@ -4,8 +4,8 @@ Chihiro-songs-app - [https://songs.chihiro.nijisanji.page](https://songs.chihiro
 [![Actions Status - build](https://github.com/iedred7584/chihiro-songs-app/workflows/build/badge.svg)](https://github.com/iedred7584/chihiro-songs-app/actions?query=workflow%3A%22build%22)
 [![GitHub](https://img.shields.io/github/license/iedred7584/chihiro-songs-app)](https://github.com/iedred7584/chihiro-songs-app/blob/master/LICENSE)
 
-<b>にじさんじ</b>所属のバーチャルライバー[**勇気ちひろ**](https://twitter.com/Chihiro_yuki23)さんのお歌をより手軽に聞くためのWebアプリです。
-ちーちゃんがこれまでに配信や歌ってみた動画で歌ったお歌を集めて1曲ずつ聞けるようにしました。
+<b>にじさんじ</b>所属のバーチャルライバー[**勇気ちひろ**](https://twitter.com/Chihiro_yuki23)さんのお歌をより手軽に聴くためのWebアプリです。
+ちーちゃんがこれまでに配信や歌ってみた動画で歌ったお歌を集めて1曲ずつ聴けるようにしました。
 **いいね**や**プレイリスト**機能をつかってお気に入りのお歌を管理することもできます。
 あなたの大好きなお歌を見つけよう！
 
