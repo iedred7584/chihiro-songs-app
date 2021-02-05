@@ -1,1 +1,1366 @@
-[]
+[{
+  "id": 0,
+  "title": "えがおのまほう",
+  "singer": "勇気ちひろ",
+  "artist": "レンチ",
+  "videoid": "oP41X17zWR0",
+  "publishedAt": "2018-07-04",
+  "tags": [
+    "イメージソング",
+    "歌ってみた",
+    "オリジナル"
+  ],
+  "start": 0,
+  "end": 83,
+  "isMembership": false
+}, {
+  "id": 1,
+  "title": "Mr.Music",
+  "singer": "にじさんじ1期生",
+  "artist": "れるりり・ロンチーノ=ペペ・かごめP",
+  "videoid": "CICsAfQ6ke8",
+  "publishedAt": "2018-07-05",
+  "tags": [
+    "歌ってみた",
+    "コラボ"
+  ],
+  "start": 0,
+  "end": 271,
+  "isMembership": false
+}, {
+  "id": 2,
+  "title": "偶然天使",
+  "singer": "月ノ美兎・静凛・える・勇気ちひろ・樋口楓",
+  "artist": "極上生徒会執行部",
+  "videoid": "Mxcklx9tOg4",
+  "publishedAt": "2019-06-17",
+  "tags": [
+    "歌ってみた",
+    "コラボ"
+  ],
+  "start": 0,
+  "end": 261,
+  "isMembership": false
+}, {
+  "id": 3,
+  "title": "magnet",
+  "singer": "森中花咲 勇気ちひろ",
+  "artist": "流星P",
+  "videoid": "qSQ1jGsmv5M",
+  "publishedAt": "2019-07-19",
+  "tags": [
+    "歌ってみた",
+    "コラボ"
+  ],
+  "start": 0,
+  "end": 239,
+  "isMembership": false
+}, {
+  "id": 4,
+  "title": "紅白応援V",
+  "singer": "樋口楓 リゼ・ヘルエスタ 森中花咲 アンジュ・カトリーナ 勇気ちひろ 静凛 魔界ノりりむ 鈴原るる 童田明治 御伽原江良 笹木咲 シスター・クレア 鷹宮リオン",
+  "artist": "BNSI",
+  "videoid": "j_s6y2MCfnc",
+  "publishedAt": "2019-12-22",
+  "tags": [
+    "歌ってみた",
+    "コラボ"
+  ],
+  "start": 0,
+  "end": 308,
+  "isMembership": false
+}, {
+  "id": 5,
+  "title": "嗚呼、素晴らしきニャン生",
+  "singer": "まほすず(鈴谷アキ 勇気ちひろ)",
+  "artist": "Nem",
+  "videoid": "n2BrstdTTOc",
+  "publishedAt": "2019-12-22",
+  "tags": [
+    "歌ってみた",
+    "コラボ"
+  ],
+  "start": 0,
+  "end": 220,
+  "isMembership": false
+}, {
+  "id": 6,
+  "title": "僕たちはひとつの光",
+  "singer": "にじさんじ1期生",
+  "artist": "μ's",
+  "videoid": "pMI8wD9Di-k",
+  "publishedAt": "2020-02-09",
+  "tags": [
+    "歌ってみた",
+    "コラボ"
+  ],
+  "start": 0,
+  "end": 315,
+  "isMembership": false
+}, {
+  "id": 7,
+  "title": "BraveMagic",
+  "singer": "勇気ちひろ",
+  "artist": "勇気ちひろ",
+  "videoid": "NABSNwfCsw8",
+  "publishedAt": "2020-03-30",
+  "tags": [
+    "歌ってみた",
+    "オリジナル"
+  ],
+  "start": 0,
+  "end": 250,
+  "isMembership": false
+}, {
+  "id": 8,
+  "title": "ウミユリ海底譚",
+  "singer": "勇気ちひろ",
+  "artist": "ヨルシカ",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 823,
+  "end": 1059,
+  "isMembership": false
+}, {
+  "id": 9,
+  "title": "二息歩行",
+  "singer": "勇気ちひろ",
+  "artist": "DECO*27",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 1272,
+  "end": 1453,
+  "isMembership": false
+}, {
+  "id": 10,
+  "title": "炉心融解",
+  "singer": "勇気ちひろ",
+  "artist": "iroha(sasaki)",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 1634,
+  "end": 1962,
+  "isMembership": false
+}, {
+  "id": 11,
+  "title": "白日",
+  "singer": "勇気ちひろ",
+  "artist": "King Gnu",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 2230,
+  "end": 2424,
+  "isMembership": false
+}, {
+  "id": 12,
+  "title": "ヒバナ",
+  "singer": "勇気ちひろ",
+  "artist": "DECO*27",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 2500,
+  "end": 2703,
+  "isMembership": false
+}, {
+  "id": 13,
+  "title": "君色に染まる",
+  "singer": "勇気ちひろ",
+  "artist": "TOKOTOKO(西沢さんP)",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 2779,
+  "end": 2969,
+  "isMembership": false
+}, {
+  "id": 14,
+  "title": "マジカル☆ぬこレンレン",
+  "singer": "勇気ちひろ",
+  "artist": "オワタP",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 3266,
+  "end": 3479,
+  "isMembership": false
+}, {
+  "id": 15,
+  "title": "妄想感傷代償連盟",
+  "singer": "勇気ちひろ",
+  "artist": "DECO*27",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 3585,
+  "end": 3846,
+  "isMembership": false
+}, {
+  "id": 16,
+  "title": "太陽系デスコ",
+  "singer": "勇気ちひろ",
+  "artist": "ナユタン星人",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 4053,
+  "end": 4254,
+  "isMembership": false
+}, {
+  "id": 17,
+  "title": "モザイクロール",
+  "singer": "勇気ちひろ",
+  "artist": "DECO*27",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 4364,
+  "end": 4545,
+  "isMembership": false
+}, {
+  "id": 18,
+  "title": "こちら、幸福安心委員会です。",
+  "singer": "勇気ちひろ",
+  "artist": "t.Komine（うたたP）",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 4625,
+  "end": 4897,
+  "isMembership": false
+}, {
+  "id": 19,
+  "title": "悪ノ娘",
+  "singer": "勇気ちひろ",
+  "artist": "mothy",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 5052,
+  "end": 5325,
+  "isMembership": false
+}, {
+  "id": 20,
+  "title": "悪ノ召使",
+  "singer": "勇気ちひろ",
+  "artist": "mothy",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 5351,
+  "end": 5660,
+  "isMembership": false
+}, {
+  "id": 21,
+  "title": "ダンスロボットダンス",
+  "singer": "勇気ちひろ",
+  "artist": "ナユタン星人",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 5834,
+  "end": 6023,
+  "isMembership": false
+}, {
+  "id": 22,
+  "title": "からくりピエロ",
+  "singer": "勇気ちひろ",
+  "artist": "40meterP",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 6208,
+  "end": 6492,
+  "isMembership": false
+}, {
+  "id": 23,
+  "title": "アスノヨゾラ哨戒班",
+  "singer": "勇気ちひろ",
+  "artist": "Orangestar",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 6705,
+  "end": 6879,
+  "isMembership": false
+}, {
+  "id": 24,
+  "title": "だから僕は音楽を辞めた",
+  "singer": "勇気ちひろ",
+  "artist": "ヨルシカ",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 6986,
+  "end": 7229,
+  "isMembership": false
+}, {
+  "id": 25,
+  "title": "いーあるふぁんくらぶ",
+  "singer": "勇気ちひろ",
+  "artist": "みきとＰ",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 7262,
+  "end": 7495,
+  "isMembership": false
+}, {
+  "id": 26,
+  "title": "白い雪のプリンセスは",
+  "singer": "勇気ちひろ",
+  "artist": "のぼる↑",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 7583,
+  "end": 7843,
+  "isMembership": false
+}, {
+  "id": 27,
+  "title": "ココロ",
+  "singer": "勇気ちひろ",
+  "artist": "トラボルタ",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 7888,
+  "end": 8168,
+  "isMembership": false
+}, {
+  "id": 28,
+  "title": "トウキョウト・ロック・シティ",
+  "singer": "勇気ちひろ",
+  "artist": "えこ。",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 8346,
+  "end": 8684,
+  "isMembership": false
+}, {
+  "id": 29,
+  "title": "六兆年と一夜物語",
+  "singer": "勇気ちひろ",
+  "artist": "KEMU VOXX",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 8779,
+  "end": 8992,
+  "isMembership": false
+}, {
+  "id": 30,
+  "title": "ハロ/ハワユ",
+  "singer": "勇気ちひろ",
+  "artist": "ナノウ",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 9109,
+  "end": 9386,
+  "isMembership": false
+}, {
+  "id": 31,
+  "title": "ゴーストルール",
+  "singer": "勇気ちひろ",
+  "artist": "DECO*27",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 9508,
+  "end": 9714,
+  "isMembership": false
+}, {
+  "id": 32,
+  "title": "soundless voice",
+  "singer": "勇気ちひろ",
+  "artist": "ひとしずく×やま△",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 9749,
+  "end": 10057,
+  "isMembership": false
+}, {
+  "id": 33,
+  "title": "好き！雪！本気マジック",
+  "singer": "勇気ちひろ",
+  "artist": "Mitchie M",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 10107,
+  "end": 10306,
+  "isMembership": false
+}, {
+  "id": 34,
+  "title": "シャルル",
+  "singer": "勇気ちひろ",
+  "artist": "バルーン",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 10406,
+  "end": 10633,
+  "isMembership": false
+}, {
+  "id": 35,
+  "title": "右肩の蝶",
+  "singer": "勇気ちひろ",
+  "artist": "のりぴー",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 10687,
+  "end": 10951,
+  "isMembership": false
+}, {
+  "id": 36,
+  "title": "パラジクロロベンゼン",
+  "singer": "勇気ちひろ",
+  "artist": "オワタP",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 11005,
+  "end": 11250,
+  "isMembership": false
+}, {
+  "id": 37,
+  "title": "アイロニ",
+  "singer": "勇気ちひろ",
+  "artist": "すこっぷ",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 11328,
+  "end": 11576,
+  "isMembership": false
+}, {
+  "id": 38,
+  "title": "ロストワンの号哭",
+  "singer": "勇気ちひろ",
+  "artist": "Neru",
+  "videoid": "Te4PfM_KyKc",
+  "publishedAt": "2020-04-12",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 11641,
+  "end": 11855,
+  "isMembership": false
+}, {
+  "id": 39,
+  "title": "嗚呼、素晴らしきニャン生",
+  "singer": "UnisonChouette (勇気ちひろ 鈴谷アキ)",
+  "artist": "Erena Ono",
+  "videoid": "OfckSiFnxXY",
+  "publishedAt": "2020-06-01",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 806,
+  "end": 1019,
+  "isMembership": false
+}, {
+  "id": 40,
+  "title": "太陽系デスコ",
+  "singer": "勇気ちひろ",
+  "artist": "ナユタン星人",
+  "videoid": "OfckSiFnxXY",
+  "publishedAt": "2020-06-01",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 1521,
+  "end": 1721,
+  "isMembership": false
+}, {
+  "id": 41,
+  "title": "モザイクロール",
+  "singer": "勇気ちひろ",
+  "artist": "DECO*27",
+  "videoid": "OfckSiFnxXY",
+  "publishedAt": "2020-06-01",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 2258,
+  "end": 2438,
+  "isMembership": false
+}, {
+  "id": 42,
+  "title": "magnet",
+  "singer": "UnisonChouette (勇気ちひろ 鈴谷アキ)",
+  "artist": "minato",
+  "videoid": "OfckSiFnxXY",
+  "publishedAt": "2020-06-01",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 2728,
+  "end": 2964,
+  "isMembership": false
+}, {
+  "id": 43,
+  "title": "ハッピーシンセサイザ",
+  "singer": "UnisonChouette (勇気ちひろ 鈴谷アキ)",
+  "artist": "EasyPop",
+  "videoid": "OfckSiFnxXY",
+  "publishedAt": "2020-06-01",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 3073,
+  "end": 3305,
+  "isMembership": false
+}, {
+  "id": 44,
+  "title": "ハロ/ハワユ",
+  "singer": "勇気ちひろ",
+  "artist": "ナノウ",
+  "videoid": "OfckSiFnxXY",
+  "publishedAt": "2020-06-01",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 4141,
+  "end": 4425,
+  "isMembership": false
+}, {
+  "id": 45,
+  "title": "からくりピエロ",
+  "singer": "勇気ちひろ",
+  "artist": "40meterP",
+  "videoid": "OfckSiFnxXY",
+  "publishedAt": "2020-06-01",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 4876,
+  "end": 5160,
+  "isMembership": false
+}, {
+  "id": 46,
+  "title": "秘密〜黒の誓い〜",
+  "singer": "UnisonChouette (勇気ちひろ 鈴谷アキ)",
+  "artist": "ひとしずく×やま△",
+  "videoid": "OfckSiFnxXY",
+  "publishedAt": "2020-06-01",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 5227,
+  "end": 5482,
+  "isMembership": false
+}, {
+  "id": 47,
+  "title": "君色に染まる",
+  "singer": "勇気ちひろ",
+  "artist": "TOKOTOKO(西沢さんP)",
+  "videoid": "OfckSiFnxXY",
+  "publishedAt": "2020-06-01",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 5890,
+  "end": 6080,
+  "isMembership": false
+}, {
+  "id": 48,
+  "title": "白い雪のプリンセスは",
+  "singer": "勇気ちひろ",
+  "artist": "のぼる↑",
+  "videoid": "OfckSiFnxXY",
+  "publishedAt": "2020-06-01",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 6483,
+  "end": 6743,
+  "isMembership": false
+}, {
+  "id": 49,
+  "title": "脳裏上のクラッカー",
+  "singer": "UnisonChouette (勇気ちひろ 鈴谷アキ)",
+  "artist": "Zutomayo",
+  "videoid": "OfckSiFnxXY",
+  "publishedAt": "2020-06-01",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 6825,
+  "end": 7089,
+  "isMembership": false
+}, {
+  "id": 50,
+  "title": "アイロニ",
+  "singer": "勇気ちひろ",
+  "artist": "すこっぷ",
+  "videoid": "OfckSiFnxXY",
+  "publishedAt": "2020-06-01",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 7602,
+  "end": 7850,
+  "isMembership": false
+}, {
+  "id": 51,
+  "title": "夢喰い白黒バク",
+  "singer": "勇気ちひろ",
+  "artist": "Nem",
+  "videoid": "OfckSiFnxXY",
+  "publishedAt": "2020-06-01",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 8443,
+  "end": 8656,
+  "isMembership": false
+}, {
+  "id": 52,
+  "title": "再教育",
+  "singer": "UnisonChouette (勇気ちひろ 鈴谷アキ)",
+  "artist": "Neru",
+  "videoid": "OfckSiFnxXY",
+  "publishedAt": "2020-06-01",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 8740,
+  "end": 8987,
+  "isMembership": false
+}, {
+  "id": 53,
+  "title": "だから僕は音楽をやめた",
+  "singer": "UnisonChouette (勇気ちひろ 鈴谷アキ)",
+  "artist": "ヨルシカ",
+  "videoid": "OfckSiFnxXY",
+  "publishedAt": "2020-06-01",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 9210,
+  "end": 9453,
+  "isMembership": false
+}, {
+  "id": 54,
+  "title": "かくしん的☆めたまるふぉ～ぜっ！",
+  "singer": "勇気ちひろ",
+  "artist": "田中あいみ",
+  "videoid": "n8tkeIU3f9Q",
+  "publishedAt": "2020-08-16",
+  "tags": [
+    "歌ってみた"
+  ],
+  "start": 0,
+  "end": 216,
+  "isMembership": false
+}, {
+  "id": 55,
+  "title": "星間飛行",
+  "singer": "勇気ちひろ",
+  "artist": "中島 愛",
+  "videoid": "xEcI9m_Qq2o",
+  "publishedAt": "2020-09-22",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 598,
+  "end": 827,
+  "isMembership": true
+}, {
+  "id": 56,
+  "title": "シュガーソングとビターステップ",
+  "singer": "勇気ちひろ",
+  "artist": "UNISON SQUARE GARDEN",
+  "videoid": "xEcI9m_Qq2o",
+  "publishedAt": "2020-09-22",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 925,
+  "end": 1176,
+  "isMembership": true
+}, {
+  "id": 57,
+  "title": "GO! GO! MANIAC",
+  "singer": "勇気ちひろ",
+  "artist": "放課後ティータイム",
+  "videoid": "xEcI9m_Qq2o",
+  "publishedAt": "2020-09-22",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 1380,
+  "end": 1414,
+  "isMembership": true
+}, {
+  "id": 58,
+  "title": "気まぐれロマンティック",
+  "singer": "勇気ちひろ",
+  "artist": "いきものがかり",
+  "videoid": "xEcI9m_Qq2o",
+  "publishedAt": "2020-09-22",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 1451,
+  "end": 1691,
+  "isMembership": true
+}, {
+  "id": 59,
+  "title": "サウダージ",
+  "singer": "勇気ちひろ",
+  "artist": "ポルノグラフィティ",
+  "videoid": "xEcI9m_Qq2o",
+  "publishedAt": "2020-09-22",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 1727,
+  "end": 1967,
+  "isMembership": true
+}, {
+  "id": 60,
+  "title": "奏",
+  "singer": "勇気ちひろ",
+  "artist": "スキマスイッチ",
+  "videoid": "xEcI9m_Qq2o",
+  "publishedAt": "2020-09-22",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 2122,
+  "end": 2421,
+  "isMembership": true
+}, {
+  "id": 61,
+  "title": "太陽系デスコ",
+  "singer": "勇気ちひろ",
+  "artist": "ナユタン星人",
+  "videoid": "xEcI9m_Qq2o",
+  "publishedAt": "2020-09-22",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 2543,
+  "end": 2745,
+  "isMembership": true
+}, {
+  "id": 62,
+  "title": "破滅の純情",
+  "singer": "勇気ちひろ",
+  "artist": "ワルキューレ",
+  "videoid": "xEcI9m_Qq2o",
+  "publishedAt": "2020-09-22",
+  "tags": [
+    "歌枠",
+    "配信",
+    "音源なし"
+  ],
+  "start": 3018,
+  "end": 3163,
+  "isMembership": true
+}, {
+  "id": 63,
+  "title": "再教育",
+  "singer": "勇気ちひろ",
+  "artist": "Neru",
+  "videoid": "xEcI9m_Qq2o",
+  "publishedAt": "2020-09-22",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 3312,
+  "end": 3558,
+  "isMembership": true
+}, {
+  "id": 64,
+  "title": "Over Soul",
+  "singer": "勇気ちひろ",
+  "artist": "林原めぐみ",
+  "videoid": "xEcI9m_Qq2o",
+  "publishedAt": "2020-09-22",
+  "tags": [
+    "歌枠",
+    "配信",
+    "音源なし"
+  ],
+  "start": 3704,
+  "end": 3907,
+  "isMembership": true
+}, {
+  "id": 65,
+  "title": "高嶺の花子さん",
+  "singer": "勇気ちひろ",
+  "artist": "back number",
+  "videoid": "xEcI9m_Qq2o",
+  "publishedAt": "2020-09-22",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 3986,
+  "end": 4278,
+  "isMembership": true
+}, {
+  "id": 66,
+  "title": "きらめくかけら",
+  "singer": "勇気ちひろ",
+  "artist": "林原めぐみ",
+  "videoid": "xEcI9m_Qq2o",
+  "publishedAt": "2020-09-22",
+  "tags": [
+    "歌枠",
+    "配信",
+    "音源なし"
+  ],
+  "start": 4404,
+  "end": 4646,
+  "isMembership": true
+}, {
+  "id": 67,
+  "title": "残酷な天使のテーゼ",
+  "singer": "勇気ちひろ",
+  "artist": "高橋洋子",
+  "videoid": "xEcI9m_Qq2o",
+  "publishedAt": "2020-09-22",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 4798,
+  "end": 5046,
+  "isMembership": true
+}, {
+  "id": 68,
+  "title": "灼熱の恋",
+  "singer": "勇気ちひろ",
+  "artist": "林原めぐみ",
+  "videoid": "xEcI9m_Qq2o",
+  "publishedAt": "2020-09-22",
+  "tags": [
+    "歌枠",
+    "配信",
+    "音源なし"
+  ],
+  "start": 5197,
+  "end": 5411,
+  "isMembership": true
+}, {
+  "id": 69,
+  "title": "紅蓮華",
+  "singer": "勇気ちひろ",
+  "artist": "LiSA",
+  "videoid": "xEcI9m_Qq2o",
+  "publishedAt": "2020-09-22",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 5469,
+  "end": 5565,
+  "isMembership": true
+}, {
+  "id": 70,
+  "title": "かな水(香水)",
+  "singer": "勇気ちひろ",
+  "artist": "瑛人",
+  "videoid": "xEcI9m_Qq2o",
+  "publishedAt": "2020-09-22",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 5595,
+  "end": 5601,
+  "isMembership": true
+}, {
+  "id": 71,
+  "title": "好き！雪！本気マジック",
+  "singer": "勇気ちひろ",
+  "artist": "Mitchie M",
+  "videoid": "xEcI9m_Qq2o",
+  "publishedAt": "2020-09-22",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 5736,
+  "end": 5935,
+  "isMembership": true
+}, {
+  "id": 72,
+  "title": "366日",
+  "singer": "勇気ちひろ",
+  "artist": "HY",
+  "videoid": "xEcI9m_Qq2o",
+  "publishedAt": "2020-09-22",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 6139,
+  "end": 6487,
+  "isMembership": true
+}, {
+  "id": 73,
+  "title": "白日",
+  "singer": "勇気ちひろ",
+  "artist": "King Gnu",
+  "videoid": "xEcI9m_Qq2o",
+  "publishedAt": "2020-09-22",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 6515,
+  "end": 6703,
+  "isMembership": true
+}, {
+  "id": 74,
+  "title": "Wherever you are",
+  "singer": "勇気ちひろ",
+  "artist": "ONE OK ROCK",
+  "videoid": "xEcI9m_Qq2o",
+  "publishedAt": "2020-09-22",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 6731,
+  "end": 6811,
+  "isMembership": true
+}, {
+  "id": 75,
+  "title": "STARRY WORDS",
+  "singer": "勇気ちひろ",
+  "artist": "ぷりずむりりっく!",
+  "videoid": "xEcI9m_Qq2o",
+  "publishedAt": "2020-09-22",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 6982,
+  "end": 6993,
+  "isMembership": true
+}, {
+  "id": 76,
+  "title": "かくしん的☆めたまるふぉ〜ぜっ！",
+  "singer": "勇気ちひろ",
+  "artist": "田中あいみ",
+  "videoid": "xEcI9m_Qq2o",
+  "publishedAt": "2020-09-22",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 7008,
+  "end": 7216,
+  "isMembership": true
+}, {
+  "id": 77,
+  "title": "花に雨を、君に歌を",
+  "singer": "UnisonChouette (勇気ちひろ 鈴谷アキ)",
+  "artist": "THE BINARY",
+  "videoid": "G8DH6f2S9yY",
+  "publishedAt": "2020-09-24",
+  "tags": [
+    "歌ってみた",
+    "コラボ"
+  ],
+  "start": 0,
+  "end": 264,
+  "isMembership": false
+}, {
+  "id": 78,
+  "title": "旅立ちの日に",
+  "singer": "勇気ちひろ",
+  "artist": "小嶋登 坂本浩美",
+  "videoid": "BKGAsuXPqFQ",
+  "publishedAt": "2020-10-17",
+  "tags": [
+    "歌ってみた",
+    "音源なし"
+  ],
+  "start": 3340,
+  "end": 3377,
+  "isMembership": false
+}, {
+  "id": 79,
+  "title": "Thriller",
+  "singer": "天宮 こころ でびでび・でびる 本間ひまわり 魔界ノりりむ 夜見れな 勇気ちひろ レヴィ・エリファ 童田明治 ベルモンド・バンデラス",
+  "artist": "Michael Jackson",
+  "videoid": "X_4yCNV0F40",
+  "publishedAt": "2020-10-31",
+  "tags": [
+    "歌ってみた",
+    "コラボ"
+  ],
+  "start": 0,
+  "end": 206,
+  "isMembership": false
+}, {
+  "id": 80,
+  "title": "BraveMagic",
+  "singer": "勇気ちひろ",
+  "artist": "勇気ちひろ",
+  "videoid": "jekdKUdhS4k",
+  "publishedAt": "2021-01-03",
+  "tags": [
+    "歌枠",
+    "配信",
+    "オリジナル"
+  ],
+  "start": 1032,
+  "end": 1280,
+  "isMembership": true
+}, {
+  "id": 81,
+  "title": "ハロ/ハワユ",
+  "singer": "勇気ちひろ",
+  "artist": "ナノウ",
+  "videoid": "jekdKUdhS4k",
+  "publishedAt": "2021-01-03",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 2427,
+  "end": 2705,
+  "isMembership": true
+}, {
+  "id": 82,
+  "title": "夢喰い白黒バク",
+  "singer": "勇気ちひろ",
+  "artist": "Nem",
+  "videoid": "jekdKUdhS4k",
+  "publishedAt": "2021-01-03",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 2747,
+  "end": 2960,
+  "isMembership": true
+}, {
+  "id": 83,
+  "title": "Over Soul",
+  "singer": "勇気ちひろ",
+  "artist": "林原めぐみ",
+  "videoid": "jekdKUdhS4k",
+  "publishedAt": "2021-01-03",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 3224,
+  "end": 3451,
+  "isMembership": true
+}, {
+  "id": 84,
+  "title": "いけないボーダーライン",
+  "singer": "勇気ちひろ",
+  "artist": "ワルキューレ",
+  "videoid": "jekdKUdhS4k",
+  "publishedAt": "2021-01-03",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 3575,
+  "end": 3851,
+  "isMembership": true
+}, {
+  "id": 85,
+  "title": "好き！雪！本気マジック",
+  "singer": "勇気ちひろ",
+  "artist": "Mitchie M",
+  "videoid": "jekdKUdhS4k",
+  "publishedAt": "2021-01-03",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 4011,
+  "end": 4211,
+  "isMembership": true
+}, {
+  "id": 86,
+  "title": "君色に染まる",
+  "singer": "勇気ちひろ",
+  "artist": "TOKOTOKO(西沢さんP)",
+  "videoid": "jekdKUdhS4k",
+  "publishedAt": "2021-01-03",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 4277,
+  "end": 4469,
+  "isMembership": true
+}, {
+  "id": 87,
+  "title": "だから僕は音楽を辞めた",
+  "singer": "勇気ちひろ",
+  "artist": "ヨルシカ",
+  "videoid": "jekdKUdhS4k",
+  "publishedAt": "2021-01-03",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 4533,
+  "end": 4776,
+  "isMembership": true
+}, {
+  "id": 88,
+  "title": "破滅の純情",
+  "singer": "勇気ちひろ",
+  "artist": "ワルキューレ",
+  "videoid": "jekdKUdhS4k",
+  "publishedAt": "2021-01-03",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 4914,
+  "end": 5178,
+  "isMembership": true
+}, {
+  "id": 89,
+  "title": "GIRAFFE BLUES",
+  "singer": "勇気ちひろ",
+  "artist": "ワルキューレ",
+  "videoid": "jekdKUdhS4k",
+  "publishedAt": "2021-01-03",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 5242,
+  "end": 5550,
+  "isMembership": true
+}, {
+  "id": 90,
+  "title": "Don't say \"lazy\"",
+  "singer": "勇気ちひろ",
+  "artist": "放課後ティータイム",
+  "videoid": "jekdKUdhS4k",
+  "publishedAt": "2021-01-03",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 6014,
+  "end": 6274,
+  "isMembership": true
+}, {
+  "id": 91,
+  "title": "Cagayake!GIRLS",
+  "singer": "勇気ちひろ",
+  "artist": "桜高軽音部",
+  "videoid": "jekdKUdhS4k",
+  "publishedAt": "2021-01-03",
+  "tags": [
+    "歌枠",
+    "配信",
+    "音源なし"
+  ],
+  "start": 6409,
+  "end": 6644,
+  "isMembership": true
+}, {
+  "id": 92,
+  "title": "START:DASH!!",
+  "singer": "勇気ちひろ",
+  "artist": "μ's",
+  "videoid": "jekdKUdhS4k",
+  "publishedAt": "2021-01-03",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 6771,
+  "end": 7026,
+  "isMembership": true
+}, {
+  "id": 93,
+  "title": "告白日和、です！",
+  "singer": "勇気ちひろ",
+  "artist": "南ことり 小泉花陽",
+  "videoid": "jekdKUdhS4k",
+  "publishedAt": "2021-01-03",
+  "tags": [
+    "歌枠",
+    "配信",
+    "音源なし"
+  ],
+  "start": 7362,
+  "end": 7550,
+  "isMembership": true
+}, {
+  "id": 94,
+  "title": "再教育",
+  "singer": "勇気ちひろ",
+  "artist": "Neru",
+  "videoid": "jekdKUdhS4k",
+  "publishedAt": "2021-01-03",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 7723,
+  "end": 7970,
+  "isMembership": true
+}, {
+  "id": 94,
+  "title": "かくしん的☆めたまるふぉ～ぜっ！",
+  "singer": "勇気ちひろ",
+  "artist": "田中あいみ",
+  "videoid": "jekdKUdhS4k",
+  "publishedAt": "2021-01-03",
+  "tags": [
+    "歌枠",
+    "配信"
+  ],
+  "start": 8059,
+  "end": 8267,
+  "isMembership": true
+}, {
+  "id": 95,
+  "title": "ロストワンの号哭",
+  "singer": "UnisonChouette (勇気ちひろ 鈴谷アキ)",
+  "artist": "Neru",
+  "videoid": "kI0Cw3roYAM",
+  "publishedAt": "2021-01-29",
+  "tags": [
+    "歌ってみた",
+    "コラボ"
+  ],
+  "start": 0,
+  "end": 216,
+  "isMembership": false
+}]
