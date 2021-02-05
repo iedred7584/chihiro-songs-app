@@ -10,7 +10,7 @@
         このアプリは<b>にじさんじ</b>所属のバーチャルライバー<b>勇気ちひろ</b>
         <a href="https://twitter.com/chihiro_yuki23" target="_blank"><v-icon size="1.2em">mdi-twitter</v-icon></a>
         <a href="https://www.youtube.com/channel/UCLO9QDxVL4bnvRRsz6K4bsQ" target="_blank"><v-icon size="1.2em">mdi-youtube</v-icon></a>
-        さんのお歌をより手軽に聞くためのWebアプリです。 ちーちゃんがこれまでに配信や歌ってみた動画で歌ったお歌を集めて1曲ずつ聞けるようにしました。
+        さんのお歌をより手軽に聴くためのWebアプリです。 ちーちゃんがこれまでに配信や歌ってみた動画で歌ったお歌を集めて1曲ずつ聴けるようにしました。
         <b>いいね</b>や<b>プレイリスト</b>機能をつかってお気に入りのお歌を管理することもできます。 あなたの大好きなお歌を見つけよう！
       </p>
     </section>
