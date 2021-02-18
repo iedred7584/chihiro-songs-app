@@ -1363,4 +1363,18 @@
   "start": 0,
   "end": 216,
   "isMembership": false
+}, {
+  "id": 96,
+  "title": "BraveMagic",
+  "singer": "勇気ちひろ",
+  "artist": "勇気ちひろ",
+  "videoid": "gLbBWg2JRck",
+  "publishedAt": "2021-02-18",
+  "tags": [
+    "配信",
+    "オリジナル"
+  ],
+  "start": 1436,
+  "end": 1744,
+  "isMembership": false
 }]
